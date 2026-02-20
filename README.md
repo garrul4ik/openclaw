@@ -25,7 +25,7 @@ export OPENROUTER_API_KEY="sk-or-ваш_ключ_от_openrouter"
 ```
 # 2. Скачайте и сделайте скрипт исполняемым
 ```bash
-curl -fsSL -O https://raw.githubusercontent.com/mortalezz/openclaw/main/openclaw-setup.sh
+curl -fsSL -O https://github.com/garrul4ik/openclaw/main/openclaw-setup.sh
 chmod +x openclaw-setup.sh
 ```
 # 3. Запустите установку
